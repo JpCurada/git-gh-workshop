@@ -7,7 +7,8 @@ public class Main {
     
     public static void main(String[] args) {
         System.out.println("=== Welcome to Student Infoman System ===");
-        System.out.println("Type 'quit' at any time to exit the program.");
+        System.out.println("Type 'quit' and okay");
+
         System.out.println();
         
         String choice;
