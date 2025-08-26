@@ -6,8 +6,9 @@ public class Main {
     private static ArrayList<Student> students = new ArrayList<>();
     
     public static void main(String[] args) {
-        System.out.println("=== Welcome to Student System ===");
-        System.out.println("Type 'quit'");
+        System.out.println("=== Welcome to Student Infoman System ===");
+        System.out.println("Type 'quit' and okay");
+
         System.out.println();
         
         String choice;
