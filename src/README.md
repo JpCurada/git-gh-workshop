@@ -1,4 +1,4 @@
-# Student Management System
+# Puti Student Management System
 
 **A beginner-friendly Java project to learn programming and Git!** 
 
